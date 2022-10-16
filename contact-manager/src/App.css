@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:60px;   /* Height of the footer */
+  background:rgba(255, 229, 204, 0.418);
+}
+
+.card {
+  margin-left: 10%;
+  margin-right: 20px;
+  box-shadow: 6px 3px darkgray;
+}
+
+.card-title {
+  font-weight: 1022;
+  font-size: 35px;
+  color:lightblue;
+}
+.card-body {
+  border-radius: 100px;
+}
+.navbar{
+  background:rgba(255, 229, 204, 0.418);
+}
